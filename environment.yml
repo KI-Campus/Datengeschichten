@@ -1,0 +1,6 @@
+name: datengeschichten
+channels:
+  - conda-forge
+dependencies:
+  - r-base
+  - jupyter_contrib_nbextensions
