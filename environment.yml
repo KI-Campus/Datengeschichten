@@ -9,7 +9,7 @@ dependencies:
   - r-wordcloud
   - r-wordcloud2
   - r-rcolorbrewer
-  - r-strigi
+  - r-stringi
   - r-rcpp
   - r-webshot
   - r-htmlwidgets
