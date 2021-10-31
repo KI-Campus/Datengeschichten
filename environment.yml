@@ -3,4 +3,14 @@ channels:
   - conda-forge
 dependencies:
   - r-base
+  - r-here
+  - r-tm
+  - r-snowballc
+  - r-wordcloud
+  - r-wordcloud2
+  - r-rcolorbrewer
+  - r-strigi
+  - r-rcpp
+  - r-webshot
+  - r-htmlwidgets
   - jupyter_contrib_nbextensions
