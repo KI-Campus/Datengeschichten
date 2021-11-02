@@ -16,4 +16,6 @@ dependencies:
   - r-rvest
   - r-ggplot2
   - r-dplyr
+  - r-psych
+  - r-quantpsyc
   - jupyter_contrib_nbextensions
