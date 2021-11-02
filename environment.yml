@@ -13,4 +13,7 @@ dependencies:
   - r-rcpp
   - r-webshot
   - r-htmlwidgets
+  - r-rvest
+  - r-ggplot2
+  - r-dplyr
   - jupyter_contrib_nbextensions
