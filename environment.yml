@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - r-base
+  - r-tidyverse
   - r-here
   - r-tm
   - r-snowballc
@@ -18,4 +19,5 @@ dependencies:
   - r-dplyr
   - r-psych
   - r-quantpsyc
+  - r-car
   - jupyter_contrib_nbextensions
