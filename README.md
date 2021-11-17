@@ -23,6 +23,6 @@ Hallo Welt! Ich bin eine Datengeschichte!!!!
 * Datenvisualisierung Übung I:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KI-Campus/Datengeschichten.git/main?filepath=Jupyter%20Notebooks/Datenvisualsisierung_Uebung_I.ipynb)
 * Datenvisualisierung :
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KI-Campus/Datengeschichten.git/main?filepath=Jupyter%20Notebooks/Datenvisualsisierung.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KI-Campus/Datengeschichten.git/main?filepath=Jupyter%20Notebooks/Datenvisualisierung.ipynb)
 * Datenvisualisierung Übung :
-* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KI-Campus/Datengeschichten.git/main?filepath=Jupyter%20Notebooks/Datenvisualsisierung_Uebung.ipynb)
+* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KI-Campus/Datengeschichten.git/main?filepath=Jupyter%20Notebooks/Datenvisualisierung_Uebung.ipynb)
