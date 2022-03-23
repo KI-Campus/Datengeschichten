@@ -1,4 +1,4 @@
-name: datengeschichten
+name: ir-datengeschichten
 channels:
   - conda-forge
 dependencies:
